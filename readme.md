@@ -1,199 +1,116 @@
-<div align="center">
-
 # 👋 Hi, I'm Arsalan Ali
 
-### 🤖 AI Engineer in Progress | Full-Stack Developer | Prompt Engineer
+### AI Engineer in Progress • Full-Stack Developer • Prompt Engineer
 
-**Building intelligent software by combining AI, software engineering, and problem solving.**
+> Building intelligent software by combining **AI, software engineering, and problem solving.**
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Enthusiast;LLMs+%7C+RAG+%7C+Agentic+AI;Prompt+Engineering+%7C+Context+Engineering;Full-Stack+Developer;Building+AI-Powered+Applications;Always+Learning+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+LLM+Enthusiast;RAG+%7C+AI+Agents+%7C+Agentic+AI;Prompt+%26+Context+Engineering;Full-Stack+Developer;Building+AI-Powered+Applications;Always+Learning+%F0%9F%9A%80" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" />
+<p align="center">
+  <a href="https://github.com/Arsalan5629">
+    <img src="https://komarev.com/ghpvc/?username=Arsalan5629&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+  </a>
+  <a href="https://github.com/Arsalan5629">
+    <img src="https://img.shields.io/github/followers/Arsalan5629?style=for-the-badge&logo=github&label=Followers" />
+  </a>
 </p>
-
-</div>
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **BS Computer Science student** focused on building a strong foundation in **Artificial Intelligence, Large Language Models, software engineering, and full-stack development**.
+I'm a **BS Computer Science student** focused on becoming an **AI Engineer** while building strong foundations in software engineering and full-stack development.
 
-My current journey is centered around understanding how modern AI systems work and turning that knowledge into practical applications.
+Currently exploring:
 
-### What I'm Working On
-
-* 🤖 Artificial Intelligence & LLM applications
-* 🧠 Prompt Engineering & Context Engineering
+* 🤖 Artificial Intelligence & LLMs
 * 📚 Retrieval-Augmented Generation (RAG)
-* ⚡ Agentic AI & AI Agents
-* 🔧 Tool Calling & Function Calling
-* 🔎 Semantic Search & Vector Databases
-* 🐍 Python AI development
-* 🌐 Full-Stack Web Development
-* 🗄️ Databases & API development
+* 🧠 Prompt & Context Engineering
+* ⚡ AI Agents & Agentic AI
+* 🔧 Tool & Function Calling
+* 🔎 Semantic Search & Embeddings
+* 🗄️ Vector Databases
+* 🌐 Full-Stack Development
 * 💻 Data Structures & Algorithms
-* 🧪 Building and experimenting with AI projects
 
-### My Goal
+### 🎯 Goal
 
-> **Build reliable, useful AI products that solve real-world problems.**
-
----
-
-# 🧠 AI & Machine Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=huggingface" />
-
-</p>
-
-### AI Engineering
-
-* Large Language Models (LLMs)
-* Generative AI
-* Retrieval-Augmented Generation (RAG)
-* Prompt Engineering
-* Context Engineering
-* Few-Shot & Zero-Shot Prompting
-* Prompt Chaining
-* Structured / JSON Outputs
-* Semantic Search
-* Embeddings
-* Vector Search
-* Vector Databases
-* AI Agents
-* Agentic AI
-* Tool Calling
-* Function Calling
-* Agent Memory
-* Planning & Reasoning
-* Reflection Loops
-* AI Evaluation
-* Local LLMs
-* LLM Inference
-
-### AI Frameworks & Ecosystem
-
-* LangChain
-* LangGraph
-* LlamaIndex
-* Hugging Face
-* ChromaDB
-* PGVector
-* OpenAI-compatible APIs
-* FastAPI
-* Streamlit
+> **Build reliable and useful AI products that solve real-world problems.**
 
 ---
 
-# 🛠️ Technical Skills
+# 🧠 AI Engineering
 
-## 💻 Programming Languages
+### Core Areas
+
+`LLMs` `Generative AI` `RAG` `AI Agents` `Agentic AI`
+`Prompt Engineering` `Context Engineering` `Embeddings`
+`Semantic Search` `Vector Search` `Tool Calling`
+`Function Calling` `Agent Memory` `Planning` `Reflection`
+`LLM Evaluation` `Local LLMs`
+
+### AI Ecosystem
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-* C++
-* C
-* Python
-* JavaScript
-* SQL
+**Frameworks & Tools**
+
+`LangChain` • `LangGraph` • `LlamaIndex` • `Hugging Face`
+`ChromaDB` • `PGVector` • `FastAPI` • `Streamlit`
 
 ---
 
-## 🌐 Frontend Development
+# 💻 Full-Stack Development
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
 </p>
 
-* HTML5
-* CSS3
-* Tailwind CSS
-* JavaScript
-* React
-* Next.js
-* Responsive Web Design
-* Modern Frontend Architecture
+`C++` • `C` • `Python` • `JavaScript` • `SQL`
 
----
-
-## ⚙️ Backend Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
 </p>
 
-* Node.js
-* Express.js
-* Python
-* FastAPI
-* Flask
-* REST APIs
-* API Architecture
-* Backend Development
-* Authentication Concepts
-* CRUD APIs
+`HTML5` • `CSS3` • `Tailwind CSS` • `React` • `Next.js`
 
----
-
-## 🗄️ Databases
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
-* PostgreSQL
-* MongoDB
-* MySQL
-* SQL
-* SQLAlchemy
-* PostgreSQL + PGVector
-* ChromaDB
-* Vector Databases
-* Database Design
-* CRUD Operations
-* Database Integration
+`Node.js` • `Express.js` • `FastAPI` • `Flask` • `REST APIs`
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+`PostgreSQL` • `MongoDB` • `MySQL` • `SQLAlchemy`
+`PGVector` • `ChromaDB`
 
 ---
 
-# 🔎 RAG & AI Application Development
+# 🔎 RAG & AI Applications
 
-One of my main areas of focus is understanding and building **Retrieval-Augmented Generation systems**.
-
-### RAG Concepts
+Currently building and learning **Retrieval-Augmented Generation systems**.
 
 ```text
 Documents
     ↓
-Document Loading
+Loading & Extraction
     ↓
-Text Extraction
-    ↓
-Text Chunking
+Chunking
     ↓
 Embeddings
     ↓
@@ -205,111 +122,51 @@ Relevant Context
     ↓
 LLM
     ↓
-Generated Answer
+Answer
 ```
 
-### Technologies
-
-* Python
-* LangChain
-* LlamaIndex
-* Hugging Face
-* ChromaDB
-* PGVector
-* PostgreSQL
-* FastAPI
-* Streamlit
-* Embedding Models
-* Semantic Search
+**Technologies:**
+`Python` `LangChain` `Hugging Face` `ChromaDB` `PGVector` `PostgreSQL` `FastAPI` `Streamlit`
 
 ---
 
 # 🧩 Software Engineering
 
-### Development
+### Concepts
 
-* Object-Oriented Programming
-* Data Structures
-* Algorithms
-* REST API Development
-* Database Design
-* API Integration
-* Modular Architecture
-* Environment Configuration
-* Virtual Environments
-* Debugging
-* Error Handling
-* Documentation
+`OOP` • `Data Structures` • `Algorithms` • `REST APIs`
+`Database Design` • `API Integration` • `Modular Architecture`
+`Debugging` • `Error Handling` • `Documentation`
 
-### Data Structures & Algorithms
+### Algorithms
 
-* Arrays
-* Strings
-* Linked Lists
-* Stacks
-* Queues
-* Trees
-* Graphs
-* Hashing
-* Recursion
-* Sorting
-* Binary Search
-* Dynamic Programming
-* Greedy Algorithms
-* Graph Algorithms
-
-### Algorithms I've Worked With
-
-* BFS
-* DFS
+* BFS & DFS
 * Dijkstra
 * Bellman-Ford
+* KMP
+* Binary Search
+* Sorting Algorithms
 * Huffman Coding
 * Activity Selection
 * 0/1 Knapsack
 * Longest Common Subsequence
 * Traveling Salesman Problem
-* KMP
-* Binary Search
-* Sorting Algorithms
-
----
-
-# 🔌 APIs & Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
-</p>
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* pgAdmin
-* Linux
-* Docker
-* Virtual Environments
-* REST APIs
-* JSON
-* Environment Variables
+* Dynamic Programming
+* Greedy Algorithms
 
 ---
 
 # 🏗️ Projects
 
-| Project                  | Technologies                              | Description                                         |
-| ------------------------ | ----------------------------------------- | --------------------------------------------------- |
-| 🤖 **AI Tutor**          | Python, RAG, ChromaDB, FastAPI, Streamlit | AI-powered document question-answering system       |
-| 📚 **Prompt Library**    | Prompt Engineering, LLMs                  | Collection of structured prompting techniques       |
-| 🔎 **Semantic Search**   | Python, Embeddings, Vector DB             | Search system based on semantic similarity          |
-| 📖 **Book Search API**   | FastAPI, PostgreSQL, SQLAlchemy           | Backend API for book management and search          |
-| 🌐 **Portfolio Website** | Next.js, React, Express                   | Full-stack developer portfolio                      |
-| 🧠 **AI Agent Projects** | Python, LLMs, Tools                       | Experiments with AI agents and tool-based workflows |
-| 💻 **DSA Journey**       | C++                                       | Algorithm and problem-solving practice              |
-
-> More projects are continuously being added as I explore AI Engineering and software development.
+| Project                  | Technologies                              | Description                                  |
+| ------------------------ | ----------------------------------------- | -------------------------------------------- |
+| 🤖 **AI Tutor**          | Python, RAG, ChromaDB, FastAPI, Streamlit | AI-powered PDF question-answering system     |
+| 📚 **Prompt Library**    | Prompt Engineering, LLMs                  | Collection of practical prompting techniques |
+| 🔎 **Semantic Search**   | Python, Embeddings, Vector DB             | Semantic similarity-based search             |
+| 📖 **Book Search API**   | FastAPI, PostgreSQL, SQLAlchemy           | Book management & search API                 |
+| 🌐 **Portfolio Website** | Next.js, React, Express                   | Full-stack developer portfolio               |
+| 🧠 **AI Agent Projects** | Python, LLMs, Tools                       | Experiments with AI agents and workflows     |
+| 💻 **DSA Journey**       | C++                                       | Algorithm & problem-solving practice         |
 
 ---
 
@@ -317,57 +174,73 @@ Generated Answer
 
 ### AI Engineering
 
-* Advanced RAG
-* Agentic RAG
-* AI Agents
-* LangGraph
-* Multi-Agent Systems
-* Agent Memory
-* Planning
-* Reflection
-* LLM Evaluation
-* AI System Architecture
+`Advanced RAG` • `Agentic RAG` • `AI Agents`
+`LangGraph` • `Multi-Agent Systems` • `Agent Memory`
+`Planning` • `Reflection` • `LLM Evaluation`
+`AI System Architecture`
 
 ### LLM Research
 
-Currently exploring concepts and research around:
-
-* Chain-of-Thought
-* Zero-Shot Chain-of-Thought
-* Self-Consistency
-* Least-to-Most Prompting
-* Tree of Thoughts
-* Graph of Thoughts
-* Program of Thoughts
-* Reflexion
-* Self-Refine
-* Self-Verification
-* Self-Correction
+`Chain-of-Thought` • `Self-Consistency`
+`Least-to-Most` • `Tree of Thoughts`
+`Graph of Thoughts` • `Reflexion`
+`Self-Refine` • `Self-Verification` • `Self-Correction`
 
 ---
 
-# 🎯 Current Focus
+# 🛠️ Developer Tools
 
-```text
-Artificial Intelligence       ██████████
-LLMs                          █████████░
-Prompt Engineering            █████████░
-RAG                           ████████░░
-Agentic AI                    ███████░░░
-Full-Stack Development        ████████░░
-Data Structures & Algorithms  ████████░░
-Software Engineering          ████████░░
-```
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
+</p>
 
-> These represent my **current learning focus**, not formal proficiency ratings.
+`Git` • `GitHub` • `VS Code` • `Postman` • `pgAdmin`
+`Linux` • `Docker` • `REST APIs` • `JSON` • `Environment Variables`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arsalan5629&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan5629&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arsalan5629&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Arsalan5629">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/arsalan-ali-08b74b282/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:arsalanabro1989@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+<p align="center">
+
+**GitHub:** [Arsalan5629](https://github.com/Arsalan5629)
+**LinkedIn:** [Arsalan Ali](https://www.linkedin.com/in/arsalan-ali-08b74b282/)
+**Email:** `arsalanabro1989@gmail.com`
+
+</p>
 
 ---
 
 # 🧠 Learning Philosophy
-
-I believe strong engineers don't just learn frameworks — they understand the fundamentals behind them.
-
-My learning approach focuses on:
 
 ```text
 Learn
@@ -385,101 +258,14 @@ Improve
 Repeat
 ```
 
-> **"Code. Learn. Build. Repeat."**
+> **Code. Learn. Build. Repeat.**
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arsalan5629&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan5629&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Arsalan5629&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsalan5629&theme=github-dark&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arsalan5629&theme=algolia&no-frame=true&no-bg=true&column=4" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Arsalan5629">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-   
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-   
-
-<a href="mailto:arsalanabro1989@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</div>
-
----
-
-# 🤝 Open Source
-
-I'm interested in:
-
-* Contributing to AI/ML projects
-* Building developer tools
-* Exploring open-source LLMs
-* Improving AI applications
-* Collaborating on interesting projects
-* Learning from experienced developers
-
-If you're building something interesting around **AI, LLMs, RAG, agents, or software engineering**, feel free to connect.
-
----
-
-<div align="center">
+<p align="center">
 
 ### 🚀 Building Today. Learning Every Day.
 
 **Thanks for visiting my profile!**
 
-If you find something useful here, consider giving the repository a ⭐
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:58A6FF&section=footer" />
-
-</div>
+</p>
